@@ -1,0 +1,30 @@
+{
+  "name": "express-intl",
+  "version": "1.0.0",
+  "description": "Express Intl is related to FormatJS, additional docs can be found on the website: http://formatjs.io/integrations/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/framled/express-intl.git"
+  },
+  "keywords": [
+    "express",
+    "intl"
+  ],
+  "author": "framled <fn.narvaezmichea@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/framled/express-intl/issues"
+  },
+  "homepage": "https://github.com/framled/express-intl#readme",
+  "dependencies": {
+    "intl": "^1.2.5",
+    "intl-format-cache": "^2.0.5",
+    "intl-locales-supported": "^1.0.0",
+    "intl-messageformat": "^2.1.0",
+    "intl-relativeformat": "^2.0.0"
+  }
+}
